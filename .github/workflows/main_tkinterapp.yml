@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'tkinterapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_820A539EFF274E50834798B2FFC94441 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6F49B1A544E749A4B83F72DD5314365D }}
